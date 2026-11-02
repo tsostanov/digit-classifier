@@ -1,0 +1,8 @@
+{
+  "checkpoint_sha256": "fd994bfaedf20b730329e4c85e4743c8f5068d3205a24ac1f647102b13de4f5a",
+  "epoch": 6,
+  "dataset": "validation",
+  "device": "cpu",
+  "batch_size": 128,
+  "split_sha256": "889b8c5d97558c617a844a37ad44e11fa20a961b0ee932891d9ff0338c9a5ad3"
+}

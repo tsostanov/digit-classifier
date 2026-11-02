@@ -1,0 +1,11 @@
+{
+  "best_epoch": 6,
+  "best_validation_loss": 0.04112679927237332,
+  "validation_accuracy": 0.9877,
+  "validation_macro_f1": 0.9875614993638235,
+  "seconds": 58.16266360000009,
+  "checkpoint_sha256": "fd994bfaedf20b730329e4c85e4743c8f5068d3205a24ac1f647102b13de4f5a",
+  "split_sha256": "889b8c5d97558c617a844a37ad44e11fa20a961b0ee932891d9ff0338c9a5ad3",
+  "custom_test_status": "not_collected_not_evaluated",
+  "checkpoint_reload_loss_matches": true
+}

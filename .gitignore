@@ -1,0 +1,13 @@
+/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+/data/
+/custom_test/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.log
+.coverage
+htmlcov/
