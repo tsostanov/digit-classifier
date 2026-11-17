@@ -1,0 +1,370 @@
+{
+  "checkpoint_sha256": "18366c0d9f141759b02588831c0e700a3e4d7ef7d1be0820ea4dc9abbeecf53d",
+  "validation_errors_total": 113,
+  "selection": "first_48_in_validation_order",
+  "validation_examples": [
+    {
+      "index": 18,
+      "mnist_index": 1854,
+      "true": 4,
+      "predicted": 7,
+      "score": 0.8543741106987
+    },
+    {
+      "index": 103,
+      "mnist_index": 39329,
+      "true": 3,
+      "predicted": 9,
+      "score": 0.7583896517753601
+    },
+    {
+      "index": 239,
+      "mnist_index": 2148,
+      "true": 6,
+      "predicted": 4,
+      "score": 0.8576800227165222
+    },
+    {
+      "index": 249,
+      "mnist_index": 54586,
+      "true": 9,
+      "predicted": 3,
+      "score": 0.5202276706695557
+    },
+    {
+      "index": 274,
+      "mnist_index": 52899,
+      "true": 7,
+      "predicted": 2,
+      "score": 0.6186559200286865
+    },
+    {
+      "index": 303,
+      "mnist_index": 20962,
+      "true": 4,
+      "predicted": 7,
+      "score": 0.7036335468292236
+    },
+    {
+      "index": 409,
+      "mnist_index": 53873,
+      "true": 4,
+      "predicted": 9,
+      "score": 0.6947152018547058
+    },
+    {
+      "index": 438,
+      "mnist_index": 33860,
+      "true": 9,
+      "predicted": 7,
+      "score": 0.6860765218734741
+    },
+    {
+      "index": 622,
+      "mnist_index": 48966,
+      "true": 5,
+      "predicted": 9,
+      "score": 0.8201181292533875
+    },
+    {
+      "index": 786,
+      "mnist_index": 46938,
+      "true": 7,
+      "predicted": 1,
+      "score": 0.38710060715675354
+    },
+    {
+      "index": 815,
+      "mnist_index": 28574,
+      "true": 9,
+      "predicted": 4,
+      "score": 0.622150182723999
+    },
+    {
+      "index": 907,
+      "mnist_index": 27602,
+      "true": 5,
+      "predicted": 3,
+      "score": 0.6938572525978088
+    },
+    {
+      "index": 1185,
+      "mnist_index": 13854,
+      "true": 0,
+      "predicted": 6,
+      "score": 0.5820177793502808
+    },
+    {
+      "index": 1266,
+      "mnist_index": 80,
+      "true": 9,
+      "predicted": 8,
+      "score": 0.5435659289360046
+    },
+    {
+      "index": 1273,
+      "mnist_index": 6848,
+      "true": 5,
+      "predicted": 0,
+      "score": 0.8964422345161438
+    },
+    {
+      "index": 1357,
+      "mnist_index": 9220,
+      "true": 8,
+      "predicted": 9,
+      "score": 0.8800534605979919
+    },
+    {
+      "index": 1430,
+      "mnist_index": 13428,
+      "true": 9,
+      "predicted": 4,
+      "score": 0.498386949300766
+    },
+    {
+      "index": 1432,
+      "mnist_index": 23911,
+      "true": 1,
+      "predicted": 7,
+      "score": 0.9315504431724548
+    },
+    {
+      "index": 2066,
+      "mnist_index": 17728,
+      "true": 6,
+      "predicted": 4,
+      "score": 0.9171357750892639
+    },
+    {
+      "index": 2244,
+      "mnist_index": 12377,
+      "true": 3,
+      "predicted": 9,
+      "score": 0.9887821078300476
+    },
+    {
+      "index": 2253,
+      "mnist_index": 45616,
+      "true": 5,
+      "predicted": 0,
+      "score": 0.939868152141571
+    },
+    {
+      "index": 2263,
+      "mnist_index": 32963,
+      "true": 9,
+      "predicted": 4,
+      "score": 0.9390912055969238
+    },
+    {
+      "index": 2598,
+      "mnist_index": 22779,
+      "true": 5,
+      "predicted": 6,
+      "score": 0.7647354602813721
+    },
+    {
+      "index": 2669,
+      "mnist_index": 42566,
+      "true": 9,
+      "predicted": 4,
+      "score": 0.9960747957229614
+    },
+    {
+      "index": 2678,
+      "mnist_index": 23710,
+      "true": 9,
+      "predicted": 4,
+      "score": 0.5593732595443726
+    },
+    {
+      "index": 2684,
+      "mnist_index": 24760,
+      "true": 8,
+      "predicted": 3,
+      "score": 0.5146754384040833
+    },
+    {
+      "index": 2876,
+      "mnist_index": 10994,
+      "true": 3,
+      "predicted": 9,
+      "score": 0.9977073669433594
+    },
+    {
+      "index": 2927,
+      "mnist_index": 47421,
+      "true": 8,
+      "predicted": 5,
+      "score": 0.7530619502067566
+    },
+    {
+      "index": 3192,
+      "mnist_index": 37468,
+      "true": 3,
+      "predicted": 2,
+      "score": 0.5707489252090454
+    },
+    {
+      "index": 3408,
+      "mnist_index": 36055,
+      "true": 0,
+      "predicted": 8,
+      "score": 0.41264572739601135
+    },
+    {
+      "index": 3589,
+      "mnist_index": 47689,
+      "true": 3,
+      "predicted": 8,
+      "score": 0.9733908176422119
+    },
+    {
+      "index": 3694,
+      "mnist_index": 53680,
+      "true": 9,
+      "predicted": 7,
+      "score": 0.8132030367851257
+    },
+    {
+      "index": 3741,
+      "mnist_index": 12585,
+      "true": 2,
+      "predicted": 8,
+      "score": 0.5742275714874268
+    },
+    {
+      "index": 3837,
+      "mnist_index": 15450,
+      "true": 6,
+      "predicted": 3,
+      "score": 0.846133291721344
+    },
+    {
+      "index": 3872,
+      "mnist_index": 40144,
+      "true": 5,
+      "predicted": 3,
+      "score": 0.9921073317527771
+    },
+    {
+      "index": 4064,
+      "mnist_index": 53507,
+      "true": 5,
+      "predicted": 8,
+      "score": 0.609434962272644
+    },
+    {
+      "index": 4081,
+      "mnist_index": 45917,
+      "true": 9,
+      "predicted": 3,
+      "score": 0.6650663018226624
+    },
+    {
+      "index": 4115,
+      "mnist_index": 18382,
+      "true": 9,
+      "predicted": 4,
+      "score": 0.5005454421043396
+    },
+    {
+      "index": 4131,
+      "mnist_index": 37396,
+      "true": 8,
+      "predicted": 5,
+      "score": 0.5815637707710266
+    },
+    {
+      "index": 4139,
+      "mnist_index": 56480,
+      "true": 9,
+      "predicted": 5,
+      "score": 0.7782536149024963
+    },
+    {
+      "index": 4303,
+      "mnist_index": 32776,
+      "true": 4,
+      "predicted": 0,
+      "score": 0.47118884325027466
+    },
+    {
+      "index": 4399,
+      "mnist_index": 41156,
+      "true": 0,
+      "predicted": 6,
+      "score": 0.7266386151313782
+    },
+    {
+      "index": 4562,
+      "mnist_index": 47479,
+      "true": 0,
+      "predicted": 4,
+      "score": 0.4218812882900238
+    },
+    {
+      "index": 4633,
+      "mnist_index": 34048,
+      "true": 3,
+      "predicted": 2,
+      "score": 0.9287185668945312
+    },
+    {
+      "index": 4886,
+      "mnist_index": 49910,
+      "true": 6,
+      "predicted": 8,
+      "score": 0.3194705545902252
+    },
+    {
+      "index": 4975,
+      "mnist_index": 22169,
+      "true": 2,
+      "predicted": 8,
+      "score": 0.5674488544464111
+    },
+    {
+      "index": 4978,
+      "mnist_index": 31428,
+      "true": 3,
+      "predicted": 9,
+      "score": 0.541752815246582
+    },
+    {
+      "index": 5065,
+      "mnist_index": 47034,
+      "true": 8,
+      "predicted": 1,
+      "score": 0.9915224313735962
+    }
+  ],
+  "custom_errors_total": 4,
+  "custom_examples": [
+    {
+      "index": 6,
+      "true": 1,
+      "predicted": 7,
+      "score": 0.9945659637451172
+    },
+    {
+      "index": 8,
+      "true": 1,
+      "predicted": 7,
+      "score": 0.6166054606437683
+    },
+    {
+      "index": 41,
+      "true": 8,
+      "predicted": 4,
+      "score": 0.5359693765640259
+    },
+    {
+      "index": 49,
+      "true": 9,
+      "predicted": 3,
+      "score": 0.861007809638977
+    }
+  ]
+}

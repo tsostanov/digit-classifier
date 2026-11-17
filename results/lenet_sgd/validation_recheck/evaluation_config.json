@@ -1,0 +1,9 @@
+{
+  "checkpoint_sha256": "18366c0d9f141759b02588831c0e700a3e4d7ef7d1be0820ea4dc9abbeecf53d",
+  "epoch": 10,
+  "dataset": "validation",
+  "device": "cpu",
+  "batch_size": 128,
+  "architecture": "lenet5_mnist_v2",
+  "split_sha256": "889b8c5d97558c617a844a37ad44e11fa20a961b0ee932891d9ff0338c9a5ad3"
+}
